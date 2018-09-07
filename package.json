@@ -1,5 +1,5 @@
 {
-  "name": "next",
+  "name": "@trashhalo/next",
   "version": "6.1.1",
   "description": "Minimalistic framework for server-rendered React applications",
   "main": "./dist/server/next.js",
